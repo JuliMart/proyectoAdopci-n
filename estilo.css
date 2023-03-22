@@ -1,0 +1,34 @@
+body{
+    background-color: darkgray;
+}
+p,b{
+    font-family:'Franklin Gothic Medium';
+}
+
+h1 {
+    color:darkgreen;
+    text-align: center;
+}
+#li1 {
+    color:rgb(14, 85, 2);
+}
+
+.centrado-verde {
+    color:rgb(2, 98, 23);
+    text-align: center;
+}
+
+/*
+.centrado{
+    text-align: center;
+}
+
+.verde{
+    color:green;
+
+}
+esto sería para separar color y centrado
+*/
+/**{
+    border:2px solid black;
+}*/
